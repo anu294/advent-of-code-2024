@@ -1,0 +1,4 @@
+node_modules/*
+output.txt
+safeReports.txt
+safeReports1.txt
