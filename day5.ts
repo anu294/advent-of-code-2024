@@ -76,4 +76,4 @@ const Day5 = () => {
   readInput();
 };
 
-Day1();
+Day5();
